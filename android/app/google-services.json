@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062595177669",
+    "project_id": "signin-project-aa77d",
+    "storage_bucket": "signin-project-aa77d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062595177669:android:cc192841e6cf537a0f14ac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn90bngP_cQ4FAIztk2le6Y9hmenslQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062595177669:android:6cc2a2561c694f920f14ac",
+        "android_client_info": {
+          "package_name": "com.example.signin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn90bngP_cQ4FAIztk2le6Y9hmenslQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
