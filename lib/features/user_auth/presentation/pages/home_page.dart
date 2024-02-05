@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
           children: [
             Center(
                 child: Text(
-              "Welcome Home!",
+              "Welcome Home - A small change for a PR!",
               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
             )),
             SizedBox(
